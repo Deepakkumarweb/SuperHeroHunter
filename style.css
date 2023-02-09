@@ -6,10 +6,6 @@
 }
 body {
   width: 100%;
-  background-image: url(background.jpg);
-   background-size: cover;
-  overflow: hidden;
-  position: fixed;
 }
 
 /*navbar css properties for all three pages*/
